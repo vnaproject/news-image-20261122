@@ -13,9 +13,9 @@ image-generator output.
 
 - **Masthead:** "THE WORLD TODAY — SUNDAY, 22 NOVEMBER 2026"
 - **Lead story — the Gulf:** Iran says its missiles and drones destroyed
-  two U.S. Patriot radars at bases in Bahrain; the U.S. says nearly all
-  were intercepted and reports no casualties; Bahrain says a factory
-  caught fire.
+  two U.S. Patriot radars at bases in Bahrain; Bahrain says its air
+  defences intercepted attacks and the U.S. has not confirmed radar
+  damage; Bahrain says a factory caught fire.
 - **Baltic Sea:** the sanctioned Russian cargo ship *Sparta II* is hit by
   drones, catches fire and drifts into Finnish waters; all 16 crew
   escape unhurt.
@@ -25,8 +25,8 @@ image-generator output.
   Committee that picks the city's leader; 856 candidates are running.
 - **Climate:** COP31 talks in Antalya run past their deadline, deadlocked
   over fossil fuels and finance.
-- **Sport:** Australia bowls first in the South Africa decider; captain
-  Steve Smith is out injured.
+- **Sport:** Steve Smith and Mitchell Starc are ruled out of Australia's
+  South Africa tour; Marnus Labuschagne is recalled to the ODI squad.
 
 Sources: Reuters, AP, Xinhua, Al Jazeera, CNN, China Daily — reported
 22 November 2026. Claims that could not be independently verified are

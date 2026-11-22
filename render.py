@@ -208,8 +208,9 @@ def main():
         y += 52
     body_f = font(SANS, 21)
     summary = ("Tehran claims its missiles and drones destroyed two U.S. "
-               "Patriot radars. Washington says nearly all were intercepted "
-               "and reports no casualties. Bahrain says a factory caught fire.")
+               "Patriot radars. Bahrain says its air defences intercepted "
+               "attacks; the U.S. has not confirmed radar damage. Bahrain "
+               "says a factory caught fire.")
     y += 8
     for ln in wrap(d, summary, body_f, 560):
         d.text((tx, y), ln, font=body_f, fill=LIGHT)
@@ -257,8 +258,8 @@ def main():
     sf = font(SANS_B, 19)
     d.text((M, fy + 16), "SPORT", font=sf, fill=RED)
     d.text((M + 78, fy + 16),
-           "Australia bowls first in the South Africa decider — captain Steve "
-           "Smith out injured.", font=font(SANS, 19), fill=INK)
+           "Smith, Starc ruled out of South Africa tour — Labuschagne "
+           "recalled to the ODI squad.", font=font(SANS, 19), fill=INK)
     ff = font(SANS, 15)
     d.text((M, fy + 52),
            "Sources: Reuters, AP, Xinhua, Al Jazeera, CNN, China Daily — 22 "
